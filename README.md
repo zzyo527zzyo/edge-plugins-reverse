@@ -13,9 +13,11 @@
 ☝[Anime Cute Girls HD Wallpaper New Tab - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/anime-cute-girls-hd-wallp/opikgkeiopokefaejegeghpfgmjajmah)<br>
 接下来就要观察插件是储存在本地还是在☁️云端了：<br>
 通过询问度娘和ai就知道了，浏览器插件的存储地址在：<br>
+```
 %LOCALAPPDATA%\Microsoft\Edge\User Data\Default\Extensions<br>
+```
 这说明！！！插件的存储地址是在本地的，那岂不是可以为所欲为，🤔为所欲为？？！<br>
-![](./images/Pasted%20image%2020260213181714.png)
+![](./images/Pasted%20image%2020260213181714.png)<br>
 那么这么多文件夹，哪一个是插件呢？？😭<br>
 这时我们打开插件的详情信息，赫然发现浏览器的地址栏怎么有一个id呢☝😮<br>
 ![](./images/Pasted%20image%2020260213181910.png)]
