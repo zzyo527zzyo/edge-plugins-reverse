@@ -36,9 +36,9 @@
 &emsp;&emsp;怎么办🤔？这时我注意到metadata文件夹下面有两个json文件很可疑。hash.json？？验证内容.json？？<br>
 ![](./images/Pasted%20image%2020260213183834.png)<br>
 &emsp;&emsp;难道说🤔这是签名校验？？打开文件夹一看有 "signature"和"file_hashes"字段心顿时凉了一半，亚麻咯🙅‍♀️这还搞个瘠薄<br>
-😭😭😭<br>
-😭😭😭<br>
-😭😭😭<br>
+&emsp;&emsp;😭😭😭<br>
+&emsp;&emsp;😭😭😭<br>
+&emsp;&emsp;😭😭😭<br>
 &emsp;&emsp;这时我注意到扩展里面有个开发者模式，打开以后👉右边便多出来三个选项：加载解压缩的扩展？？！☝😮<br>
 ![](./images/Pasted%20image%2020260213184600.png)<br>
 &emsp;&emsp;☝😮☝😮☝😮这不就是加载本地的插件吗？重新下载完好的插件，再将自定义的图片替换image1，将整个文件夹放到桌面，直接加载！！！<br>
