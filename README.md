@@ -60,9 +60,10 @@
 ```
 &emsp;&emsp;一行，并在文件夹里面添加image7图片<br>
 &emsp;&emsp;这里我们只是修改了前端页面，之前在使用插件过程中我们明显可以👌感觉到，插件有一个点击切换图片的功能，这说明我们还需要寻找定位js中的点击功能☝😮<br>
-&emsp;&emsp;我们进入js文件夹，毫不费力的就看到了这个可疑的back.js文件📃<br>
+&emsp;&emsp;我们进入js文件夹，毫不费力的就看到了这个可疑的background.js文件📃<br>
 ![](./images/Pasted%20image%2020260214175423.png)<br>
-&emsp;&emsp;用代码编辑器打开该文件，输入background或者image关键词你就可以👌轻松定位到这里<br>
+&emsp;&emsp;输入background或者image关键词你就可以👌轻松定位到这里<br>
+&emsp;&emsp;用代码编辑器打开该文件<br>
 ![](./images/Pasted%20image%2020260214175627.png)<br>
 &emsp;&emsp;同理我们仿照他的格式新增一行（此处需要注意使用ctrl+s保存修改的代码才会生效）<br>
 ```
