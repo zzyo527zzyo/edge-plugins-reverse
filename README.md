@@ -23,7 +23,7 @@
 ![](./images/Pasted%20image%2020260213181910.png)
 &emsp;&emsp;我们再将这个id和这个文件夹对比一下，发现一模一样！哦哦哦😮☝原来如此：<br>
 &emsp;&emsp;opikgkeiopokefaejegeghpfgmjajmah这个就插件的文件夹名！太🀄了！<br>
-&emsp;&emsp;我们现在打开文件夹那便是海阔凭鱼跃了，随便豕突狼奔，巡视领地了。<br>
+&emsp;&emsp;我们现在打开文件夹那便是海阔凭鱼跃了，随便巡视领地了。<br>
 &emsp;&emsp;经过几圈溜达，发现images文件夹里面不正是我们要找的图片吗？！！👌<br>
 ![](./images/Pasted%20image%2020260213182659.png)<br>
 &emsp;&emsp;偷偷将想自定义的图片替换了image1.jpg，重新打开浏览器载入，却发现扩展已损坏😭😭😭我不活了<br>
