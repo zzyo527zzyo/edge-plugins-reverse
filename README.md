@@ -3,12 +3,12 @@
 今天🖐️🐟️的时候在玩浏览器插件，发现了一个可以更改浏览器主页的美图插件，用了一会觉得挺好用的，发现美中不足的是不能自定义图片，而且只能有六张图（👿插件都做了不做这个功能！！！）
 虽然没有接触过插件逆向，但是管他的直接冲，干就完事了☝😮
 所以有请今天的受害者:💙Anime Cute Girls HD Wallpaper New Tab💙
-![[Pasted image 20260213175958.png]]
+![[./imagesPasted image 20260213175958.png]]
 ### 开始前的版本说明
 浏览器：Microsoft Edge 🏃‍♀️
  144.0.3719.115 (正式版本) (64 位)
 下载地址：[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Search.aspx?q=edge&p=17)
-### begin
+### 开始
 ☝第一步下载该插件：
 ☝[Anime Cute Girls HD Wallpaper New Tab - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/anime-cute-girls-hd-wallp/opikgkeiopokefaejegeghpfgmjajmah)
 接下来就要观察插件是储存在本地还是在☁️云端了：
@@ -84,10 +84,10 @@ elemenetGetId('background').style.backgroundImage = 'url("imgs/image7.jpg")';
 
 ## Star History
 
-<a href="https://star-history.com/#zzyo527zzyo/passjun&Date">
+<a href="https://star-history.com/#zzyo527zzyo/edge-plugins-reverse&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zzyo527zzyo/passjun&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zzyo527zzyo/passjun&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zzyo527zzyo/edge-plugins-reverse&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zzyo527zzyo/edge-plugins-reverse&type=Date" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zzyo527zzyo/passjun&type=Date" />
   </picture>
 </a>
